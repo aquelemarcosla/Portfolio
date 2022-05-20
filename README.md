@@ -1,2 +1,2 @@
 # Portfolio
-Projeto simples escrito majoritariamente em CSS. 
+Portfólio escrito apenas com HTML e CSS. 
