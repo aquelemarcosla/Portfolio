@@ -17,6 +17,10 @@ body {
     animation: backgroundTransition 5s ease-in-out infinite;
 }
 
+.header-wrapper p {
+    color: #ffffff;
+}
+
 h1, h2 {
     text-transform: uppercase;
     letter-spacing: 3px;
