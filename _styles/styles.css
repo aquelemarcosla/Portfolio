@@ -18,6 +18,7 @@ body {
 }
 
 .header-wrapper p {
+    margin-top: -15px;
     color: #ffffff;
 }
 
