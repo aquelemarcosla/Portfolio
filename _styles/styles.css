@@ -291,6 +291,9 @@ a:hover {
 }
 
 @media (max-width:800px) {
+    .header-wrapper h1 {
+        text-align: center;
+    }
     .social-media {
         display: flex;
         flex-direction: column;
