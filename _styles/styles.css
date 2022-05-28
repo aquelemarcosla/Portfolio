@@ -286,13 +286,14 @@ a:hover {
     justify-content: center;
     align-items: center;
     background: linear-gradient(-45deg, black, #174467);
-    font-size: 11px;
+    font-size: 10px;
     color: white;
 }
 
 @media (max-width:800px) {
     .header-wrapper h1 {
         text-align: center;
+        font-size: 33px;
     }
     .social-media {
         display: flex;
@@ -319,7 +320,10 @@ a:hover {
         text-align: center;
     }
     .card:hover > .card-wrapper::before {
-        height: 90px;
-        width: 190px;
+        height: 225px;
+        width: 225px;
+    }
+    .card-wrapper h2 {
+        font-size: 35px;
     }
 }
