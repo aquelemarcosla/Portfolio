@@ -285,7 +285,7 @@ a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(-45deg, black, #174467);
+    background: linear-gradient(-45deg, black, #1b01c6);
     font-size: 10px;
     color: white;
 }
