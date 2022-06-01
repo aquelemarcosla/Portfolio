@@ -7,7 +7,7 @@ body {
 .header-wrapper {
     height: 100vh;
     width: 100%;
-    background: linear-gradient(-45deg, black, #174467);
+    background: linear-gradient(-45deg, black, #1b01c6);
     background-size: 400% 400%;
     display: flex;
     flex-direction: column;
@@ -207,7 +207,7 @@ a:hover {
     height: 300px;
     width: 400px;
     margin: 3rem 0 0;
-    background-image: url('./cardimage.jpeg');
+    background-image: url('https://dthezntil550i.cloudfront.net/q8/latest/q82111291921536130017238172/1280_960/68abb2ee-97f2-47e6-85c7-768abf228bba.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
