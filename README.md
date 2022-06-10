@@ -1,9 +1,9 @@
 <h1>Portfólio</h1>
 
-##### Acesse [mrcsdev.tk](https://mrcsdev.tk/) 
+##### Go to [mrcsdev.tk](https://mrcsdev.tk/) 
 
-##### Projeto do meu portfólio profissional que desenvolvi usando apenas HTML e CSS.
-##### Destaque para o CSS, ja que usei diversos tipos de estilização e animações como o 'menu hamburguer'.
+##### Repository from my professional portfolio that I developed using only HTML and CSS.
+##### Highlight for the CSS, as it uses different types of styling and animations such as the 'hamburger menu'.
 
 <img width="100px" src="https://flyclipart.com/thumb2/explosion-gif-transparent-transparent-gif-sticker-741584.png" alt="Pikachu Gif">
 
